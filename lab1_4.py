@@ -1,3 +1,4 @@
 
 #Question 4
-print("*\n**\n***\n**\n*")
+asterixPattern = "*\n**\n***\n**\n*"
+print(asterixPattern)
